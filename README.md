@@ -1,3 +1,6 @@
+https://brytesoft.com/microsoft-office-ltsc-2024-professional-plus-how-to-download-install-and-activate
+
+
 # Parchear Office 2019 Windows 10/11
 Con esta herramienta podrás instalar office 2019 original.
 

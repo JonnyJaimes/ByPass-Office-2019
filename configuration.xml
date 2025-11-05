@@ -1,0 +1,17 @@
+<Configuration>
+
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
+    <Product ID="ProPlus2024Volume" PIDKEY="XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB" >
+      <Language ID="es-ES" />
+      <ExcludeApp ID="Lync" />
+    </Product>
+  </Add>
+
+  <!-- <Remove All="True" /> -->
+  <!-- <Property Name="AUTOACTIVATE" Value="1" /> -->
+  <!-- <RemoveMSI All="True" /> -->
+  <!--  <Display Level="None" AcceptEULA="TRUE" />  -->
+
+ 
+
+</Configuration>
